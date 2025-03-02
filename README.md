@@ -92,5 +92,33 @@ Podemos iniciar, detener y reiniciar los servicios listados con los botones del 
 
 ---
 
+## **Clonación y ejecución del proyecto**
+
+**Requisitos:** Tener Node instalado
+
+Para ejecutar el proyecto debemos descargarlo o clonarlo desde este repositorio 
+
+Una vez descargado debemos ejecutar el comando para instalar las dependencias
+
+```bash
+npm install
+```
+
+Ahora, para ejecutar debemos tener dos terminales de consola en el proyecto y ejecutar los siguientes comandos
+
+Terminal 1
+```bash
+node server.js
+```
+
+Terminal 2
+```bash
+npm run dev
+```
+
+![image](https://github.com/user-attachments/assets/f9dda4d1-2a7a-4f93-84be-064297426688)
+
+---
+
 #### Autor: 
 Manuel Alejandro Rodriguez Sanchez
